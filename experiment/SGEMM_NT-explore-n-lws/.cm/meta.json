@@ -1,0 +1,20 @@
+{
+  "added": {
+    "author": "Anton Lokhmotov",
+    "author_email": "anton@dividiti.com",
+    "author_webpage": "http://dividiti.com",
+    "copyright": "2015 (c) dividiti",
+    "engine": "CK",
+    "iso_datetime": "2015-11-11T10:53:20.676335",
+    "license": "See CK LICENSE.txt for licensing details",
+    "version": [
+      "1",
+      "6",
+      "12"
+    ]
+  },
+  "meta": {},
+  "pipeline_uid": "b0ac08fe1d3c2615",
+  "pipeline_uoa": "program",
+  "points": "76"
+}

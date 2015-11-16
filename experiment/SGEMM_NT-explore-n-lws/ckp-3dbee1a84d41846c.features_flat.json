@@ -1,0 +1,21 @@
+{
+  "##choices#cmd_key": "sgemm_nt", 
+  "##choices#compile_only_once": "yes", 
+  "##choices#compile_type": "dynamic", 
+  "##choices#cpu_freq": "max", 
+  "##choices#data_uoa": "gemmbench-cl-launcher-1.0", 
+  "##choices#dataset_file": "SGEMM_NT_4x1_barrier.json", 
+  "##choices#dataset_uoa": "SGEMM_NT", 
+  "##choices#device_id": "", 
+  "##choices#energy": "yes", 
+  "##choices#gpu_freq": "max", 
+  "##choices#host_os": "linux-32", 
+  "##choices#joined_compiler_flags": "", 
+  "##choices#module_uoa": "b0ac08fe1d3c2615", 
+  "##choices#repeat": 1, 
+  "##choices#run_cmd_key_lws": "4,8", 
+  "##choices#run_cmd_key_n": "128", 
+  "##choices#skip_calibration": "yes", 
+  "##choices#target_os": "linux-32", 
+  "##choices#target_os_bits": "32"
+}
